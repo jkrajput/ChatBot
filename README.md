@@ -21,4 +21,4 @@ Following are the Python libraries used:
   - keras
 
 ## Feedback
-If you have any feedback, please reach out at umeshsugara9@gmail.com
+If you have any feedback, please reach out at jayrajput.jk95@gmail.com
